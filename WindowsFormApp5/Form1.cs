@@ -27,9 +27,17 @@ namespace WindowsFormsApp5
 
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private async void Form1_Load(object sender, EventArgs e)
         {
-           
+            // Show Form1 (current form) and wait for 5 seconds
+            await Task.Delay(5000);
+
+            // Create and show Form3
+            Form2 form2 = new Form2();
+            form2.Show();
+
+            // Optionally, hide or close the current form
+            this.Hide();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

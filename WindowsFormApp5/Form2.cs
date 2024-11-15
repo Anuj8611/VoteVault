@@ -16,5 +16,10 @@ namespace WindowsFormsApp5
         {
             InitializeComponent();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

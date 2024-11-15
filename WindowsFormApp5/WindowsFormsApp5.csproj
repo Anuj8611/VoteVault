@@ -98,5 +98,8 @@
   <ItemGroup>
     <None Include="Resources\rs.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bjp-logo-outline-png-2.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
