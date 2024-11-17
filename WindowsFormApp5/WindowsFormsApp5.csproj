@@ -101,5 +101,17 @@
   <ItemGroup>
     <None Include="Resources\bjp-logo-outline-png-2.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hand_INC.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AAP_Symbol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indian_Election_Symbol_Elephant.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Indian_Election_Symbol_Cycle.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
