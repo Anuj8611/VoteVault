@@ -5,6 +5,5 @@
 # Features
 * End-to-End Encryption: 256 bit default encryption 
 * Voter Verification: duplicate voter id check
-* time limit to be added
-* 
+* Real-Time Results: Offer live updates on voting progress and results
 
