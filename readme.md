@@ -6,4 +6,4 @@
 * End-to-End Encryption: 256 bit default encryption 
 * Voter Verification: duplicate voter id check
 * Real-Time Results: Offer live updates on voting progress and results
-
+* Participation Statistics: Show trends in voter turnout by region, age, or other demographics.
