@@ -4,3 +4,6 @@
 
 # Features
 256 bit default encryption 
+duplicate voter id check
+time limit to be added 
+
