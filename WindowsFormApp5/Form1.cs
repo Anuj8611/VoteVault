@@ -30,7 +30,7 @@ namespace WindowsFormsApp5
         private async void Form1_Load(object sender, EventArgs e)
         {
             // Show Form1 (current form) and wait for 5 seconds
-            await Task.Delay(5000);
+            await Task.Delay(8000);
 
             // Create and show Form3
             Form2 form2 = new Form2();
@@ -41,6 +41,16 @@ namespace WindowsFormsApp5
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }

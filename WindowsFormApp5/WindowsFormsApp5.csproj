@@ -113,5 +113,8 @@
   <ItemGroup>
     <None Include="Resources\Indian_Election_Symbol_Cycle.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
