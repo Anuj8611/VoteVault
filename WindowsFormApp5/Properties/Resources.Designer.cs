@@ -63,9 +63,69 @@ namespace WindowsFormsApp5.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap AAP_Symbol {
+            get {
+                object obj = ResourceManager.GetObject("AAP_Symbol", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap bjp_logo_outline_png_2 {
+            get {
+                object obj = ResourceManager.GetObject("bjp-logo-outline-png-2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Election_commission_L {
             get {
                 object obj = ResourceManager.GetObject("Election-commission-L", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Hand_INC_svg {
+            get {
+                object obj = ResourceManager.GetObject("Hand_INC.svg", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__1_ {
+            get {
+                object obj = ResourceManager.GetObject("images (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Indian_Election_Symbol_Cycle {
+            get {
+                object obj = ResourceManager.GetObject("Indian_Election_Symbol_Cycle", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Indian_Election_Symbol_Elephant {
+            get {
+                object obj = ResourceManager.GetObject("Indian_Election_Symbol_Elephant", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

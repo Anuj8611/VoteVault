@@ -118,13 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Election-commission-L" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Election-commission-L.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Indian_Election_Symbol_Cycle" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Indian_Election_Symbol_Cycle.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Indian_Election_Symbol_Elephant" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Indian_Election_Symbol_Elephant.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="AAP_Symbol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\AAP_Symbol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="rs" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rs.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Hand_INC.svg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Hand_INC.svg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bjp-logo-outline-png-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\bjp-logo-outline-png-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pngwing.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pngwing.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="images (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
